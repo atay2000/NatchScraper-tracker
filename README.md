@@ -29,4 +29,12 @@ This repository serves as a public issue tracker for NatchScraper.
 - **Closed**: Issue has been resolved
 
 ## For Developers
-When referencing these issues in commits:
+Reference these issues in your commits:
+- `fix: authentication timeout (fixes #42)`
+- `feat: add user profile API (closes #15)`
+
+## Issue Labels
+- 🐛 `bug` - Something isn't working
+- ✨ `feature` - New feature request  
+- 📚 `documentation` - Documentation improvements
+- 🎨 `enhancement` - Improvements to existing features
